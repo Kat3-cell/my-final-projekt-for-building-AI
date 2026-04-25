@@ -1,4 +1,4 @@
-# my-final-projekt-for-building-AI
+# Building AI course project
 Final project for building AI: MathMIND
 MathMind Project.
 MathMind is an AI-assisted learning tool designed to help young people with dyscalculia improve their number sense, basic arithmetic skills, and confidence in mathematics through adaptive exercises, personalized feedback, and pattern-based learning support.
