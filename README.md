@@ -2,8 +2,7 @@
 # Final project for building AI: MathMIND
 
 ## Summary 
-## MathMind Project.
-MathMind is an AI-assisted learning tool designed to help young people with dyscalculia improve their number sense, basic arithmetic skills, and confidence in mathematics through adaptive exercises, personalized feedback, and pattern-based learning support.
+MathMind project is an AI-assisted learning tool designed to help young people with dyscalculia improve their number sense, basic arithmetic skills, and confidence in mathematics through adaptive exercises, personalized feedback, and pattern-based learning support.
 
 ### BACKGROUND
 Dyscalculia is a learning difficulty that affects a person’s ability to understand numbers, perform calculations, and grasp mathematical concepts. It is estimated to affect around 5% of the population, but many cases remain undiagnosed or unsupported throughout someones life. Some may assume that they "just are not good with numbers or math". But it is not about being good or bad. It is about supporting those students that have dyscalculia diagnoses. It is about moving beyond traditional math teaching methods which often move too quickly or rely too heavily on memorization, which can lead to frustration, anxiety, and avoidance of math-related tasks.
@@ -36,7 +35,7 @@ integrating speech-based explanations for accessibility
 -adding collaboration tools for teachers and parents
 -expanding into other learning difficulties (e.g., dyslexia support for math word problems)
 
-# ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 This project is inspired by Building AI course and its focus on real-world AI applications research. 
 open-source educational tools and adaptive learning systems. https://elementsofai.com
 No external proprietary datasets or code were directly used in this conceptual version.
